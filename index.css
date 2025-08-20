@@ -5,7 +5,8 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background: white;
-  color: black;
+  background: rgb(25, 25, 25);
+  color: white;
   font-size: 2em;
+  font-weight: bold;
 }
